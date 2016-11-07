@@ -1,0 +1,15 @@
+InitialBadWordsIntent screw you
+InitialBadWordsIntent fuck you
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help please
+AMAZON.HelpIntent please help
+
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent cancel please
+AMAZON.CancelIntent please cancel
