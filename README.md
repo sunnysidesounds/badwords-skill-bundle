@@ -8,11 +8,11 @@ This Alexa skill can tell over 700+ unique Yo Momma So Fat Joke.
 ## Usage 
 **You** : *"Alexa, open Screw You!"* 
 
-**Alexa** : *"You are piece of sh*t"*
+**Alexa** : *"You are piece of sh@t"*
 
 **You** : *"Piss Off!"*
  
-**Alexa** : *"Go f*ck yourself"*
+**Alexa** : *"Go f@ck yourself"*
 
 
 
